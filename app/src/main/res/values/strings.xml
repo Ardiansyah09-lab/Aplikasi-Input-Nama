@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Mobile</string>
+    <string name="lbl_Nama">Masukkan Nama Anda</string>
+    <string name="lbl_Alamat">Masukkan alamat Anda</string>
+    <string name="btn_Submit">Submit</string>
+    <string name="btn_Clear">Clear</string>
+    <string name="contoh">asdfghj</string>
+</resources>
